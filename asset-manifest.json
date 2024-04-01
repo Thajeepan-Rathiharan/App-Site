@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/App-Site/static/css/main.7caffaf4.css",
+    "main.js": "/App-Site/static/js/main.83f12b4d.js",
+    "static/media/background.png": "/App-Site/static/media/background.00c066dc0b70e75b96c2.png",
+    "static/media/Frame 19.png": "/App-Site/static/media/Frame 19.1ea98a56e3c14dcb1083.png",
+    "static/media/s1.png": "/App-Site/static/media/s1.0a22d0af2ac46f402f41.png",
+    "static/media/s2.png": "/App-Site/static/media/s2.2a9f596b9b34f01dbebb.png",
+    "index.html": "/App-Site/index.html",
+    "main.7caffaf4.css.map": "/App-Site/static/css/main.7caffaf4.css.map",
+    "main.83f12b4d.js.map": "/App-Site/static/js/main.83f12b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7caffaf4.css",
+    "static/js/main.83f12b4d.js"
+  ]
+}
